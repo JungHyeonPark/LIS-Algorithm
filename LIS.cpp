@@ -68,6 +68,7 @@ int main()
     cout<<"< 데이터 길이 : "<<data_siz<<" >\n";
     // N^2 LIS
     lis_n2();
+    cout<<"\n";
     // NlogN LIS
     lis_nlogn();
 
